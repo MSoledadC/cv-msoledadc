@@ -1,0 +1,27 @@
+
+a {
+    color: #fa4289;
+}
+
+h2{
+    color: #fa4289;
+}
+
+h4{
+    color: #fa4289;
+}
+
+#colorlib-aside .colorlib-footer ul li a{
+    color: #a31444a2;
+} 
+
+#colorlib-aside {
+    background-image: url(/images/fondo-cuestionario.jpg);
+}
+
+.colorlib-experience, .colorlib-skills, .colorlib-education, .colorlib-blog, .colorlib-work, .colorlib-about, .colorlib-services, .colorlib-contact {
+    padding-top: 0em;
+    padding-bottom: 5em;
+}
+
+
