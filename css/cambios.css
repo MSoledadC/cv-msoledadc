@@ -24,4 +24,17 @@ h4{
     padding-bottom: 5em;
 }
 
+.proyectos {
+    background-size: contain;
+    height: 145px;
+}
+.project .desc .con {
+    height: 170px;
+}
+
+.project .desc {
+    background-image: url(/images/fondo1.jpg);
+    background-size: cover;
+}
+
 
